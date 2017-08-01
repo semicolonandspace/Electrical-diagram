@@ -13,6 +13,6 @@ Examples of interaction:
 - Search for a circuit with the name of an element
 
 Exemples d'interaction :
-- Avoir les réfenrences
+- Avoir les réferences
 - Connaitre les derniers dépannages
 - Recherche d'un circuit avec le nom d'un élément
